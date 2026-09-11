@@ -234,3 +234,6 @@ This repository serves as the official landing page for Immortal Souls: John Tur
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Immortal Souls: John Turner today!**
+
+---
+**Last updated:** 2026-09-11 18:01:40 UTC
